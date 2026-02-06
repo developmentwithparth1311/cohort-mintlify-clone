@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96">
+  <g transform="translate(0,10)">
+    <path fill="#003087" d="M38 0h-18l-10 56h16l3-18h10c16 0 26-8 29-22C71 5 60 0 38 0z"></path>
+    <path fill="#009CDE" d="M44 12h-8l-6 32h8c10 0 16-4 18-12 2-6-2-8-12-8z"></path>
+  </g>
+
+  <text x="90" y="68" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#003087">
+    PayPal
+  </text>
+</svg>

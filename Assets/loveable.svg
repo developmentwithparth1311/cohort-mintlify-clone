@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 96">
+
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#ff4fd8"></stop>
+<stop offset="100%" stop-color="#ff8b3d"></stop>
+</linearGradient>
+</defs>
+
+<path fill="url(#g)" d="M32 58C10 42 2 32 2 20 2 10 10 2 20 2c6 0 12 3 12 8 0-5 6-8 12-8 10 0 18 8 18 18 0 12-10 22-30 38z"></path>
+
+<text x="70" y="62" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="600" fill="#000">
+Lovable
+</text>
+
+</svg>

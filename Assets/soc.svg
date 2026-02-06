@@ -1,0 +1,28 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- perfect circular path -->
+    <path id="topArc" d="M70,70 m-55,0 a55,55 0 1,1 110,0"></path>
+  </defs>
+
+  <!-- dotted outer ring -->
+  <circle cx="70" cy="70" r="60" fill="none" stroke="#cfcfcf" stroke-width="1" stroke-dasharray="2 6"></circle>
+
+  <!-- inner thick ring -->
+  <circle cx="70" cy="70" r="48" fill="none" stroke="#e2e2e2" stroke-width="6"></circle>
+
+  <!-- TOP circular text -->
+  <text font-family="Inter, sans-serif" font-size="8" letter-spacing="1.5" fill="#8a8a8a">
+    <textPath href="#topArc" startOffset="50%" text-anchor="middle">
+      SOC FOR SERVICE ORGANIZATIONS
+    </textPath>
+  </text>
+
+  <!-- center text -->
+  <text x="70" y="64" text-anchor="middle" font-family="Inter, sans-serif" font-weight="600" font-size="18" fill="#555">
+    AICPA
+  </text>
+
+  <text x="70" y="88" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="22" fill="#444">
+    SOC II
+  </text>
+</svg>
