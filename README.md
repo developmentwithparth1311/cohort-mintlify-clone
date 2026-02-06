@@ -91,22 +91,24 @@ This project helped me learn:
 - Real frontend workflow  
 
 ---
-
 ## ⚠️ Important Notes
 
 🔹 Desktop only (not responsive yet)  
 🔹 Educational project  
 🔹 Design credits belong to **Mintlify**  
-
 ---
-
-## 🚀 Run Locally
-
-```bash
-git clone https://github.com/your-username/cohort-mintlify-clone.git
-
 
 ## 👨‍💻 Author
 Parth Kumbhar
 Frontend Developer | Learning Full Stack
 If you liked this project, don’t forget to ⭐ the repo!
+
+## 🚀 Run Locally
+
+
+---
+
+```bash
+git clone https://github.com/your-username/cohort-mintlify-clone.git
+
+
