@@ -109,6 +109,6 @@ If you liked this project, don’t forget to ⭐ the repo!
 ---
 
 ```bash
-git clone https://github.com/your-username/cohort-mintlify-clone.git
+git clone https://github.com/developmentwithparth1311/cohort-mintlify-clone.git
 
 
